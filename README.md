@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](Kodluyoruz.org) Object Oriented Programming eğitimi için 
 
 | ÖDEVLER |
 |-----|
-| [ÖDEV 1](https://github.com/Ramedeus/Java_101_Kodluyoruz_Patika.dev/blob/main/README.md#open_book-prati%CC%87k-1--not-ortalamas%C4%B1) - Üniversite Yönetim Sistemi |
+| [ÖDEV 1](https://github.com/Ramedeus/Object_Oriented_Programming_Kodluyoruz_Patika.dev/blob/main/README.md#soru-question) - Üniversite Yönetim Sistemi |
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
