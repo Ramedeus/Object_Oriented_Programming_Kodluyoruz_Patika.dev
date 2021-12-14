@@ -26,13 +26,10 @@ Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
 ### :green_square: CEVAP
 
 <details>
-<summary>Kodu görmek için tıklayınız.</summary>
-  
-```java
-  
-<img src="https://github.com/Ramedeus/Logo/blob/main/harmonic_series.gif "/>
-  
-```
+<summary>Diyagramı görmek için tıklayınız.</summary>
+    
+<img src="https://github.com/Ramedeus/Logo/blob/main/%C3%9Cniversite%20Y%C3%B6netim%20Sistemi.PNG "/>
+ 
 </details>
 
 
