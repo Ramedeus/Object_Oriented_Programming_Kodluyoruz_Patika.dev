@@ -7,6 +7,7 @@ Bu repo [Kodluyoruz](Kodluyoruz.org) Object Oriented Programming eğitimi için 
 | ÖDEVLER |
 |-----|
 | [ÖDEV 1](https://github.com/Ramedeus/Object_Oriented_Programming_Kodluyoruz_Patika.dev/blob/main/README.md#open_book-%C3%B6dev-1--%C3%BCniversite-y%C3%B6netim-sistemi) - Üniversite Yönetim Sistemi |
+| [ÖDEV 2](https://github.com/Ramedeus/Object_Oriented_Programming_Kodluyoruz_Patika.dev/blob/main/README.md#open_book-%C3%B6dev-1--%C3%BCniversite-y%C3%B6netim-sistemi) - Hayvanat Bahçesi Yönetimi |
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -36,6 +37,36 @@ Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
   
   
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+
+## :open_book: ÖDEV 2	- Hayvanat Bahçesi Yönetimi
+
+### SORU :question:
+
+Bir hayvanat bahçesindeki hayvanlar hakkındaki bilgileri takip etmek için bir sistem tasarlıyorsunuz.
+
+- Hayvanlar:   
+Atlar (atlar, zebralar, eşekler vb.),   
+Kedigiller (kaplanlar, aslanlar vb.),   
+Kemirgenler (sıçanlar, kunduzlar vb.) gibi gruplardaki türlerle karakterize edilir.   
+- Hayvanlar hakkında depolanan bilgilerin çoğu tüm gruplamalar için aynıdır. (tür adı, ağırlığı, yaşı vb.)   
+- Sistem ayrıca her hayvan için belirli ilaçların dozajını alabilmeli => getDosage ()   
+- Sistem Yem verme zamanlarını hesaplayabilmelidir => getFeedSchedule ()   
+- Sistemin bu işlevleri yerine getirme mantığı, her gruplama için farklı olacaktır. Örneğin, atlar için yem verme algoritması farklı olup, kaplanlar için farklı olacaktır.   
+   
+Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bir sınıf diyagramı tasarlayın.
+
+### :green_square: CEVAP
+
+<details>
+<summary>Diyagramı görmek için tıklayınız.</summary>
+    
+<img src="https://github.com/Ramedeus/Logo/blob/main/Hayvanat%20Bah%C3%A7esi%20Y%C3%B6netimi.PNG "/>
+ 
+</details>
+
+  
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+
   
 ## Contributing :hammer_and_wrench:	
 Hatalar, öneriler ve değişiklikler için lütfen bir konu açınız.
