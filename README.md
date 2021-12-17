@@ -7,7 +7,7 @@ Bu repo [Kodluyoruz](Kodluyoruz.org) Object Oriented Programming eğitimi için 
 | ÖDEVLER |
 |-----|
 | [ÖDEV 1](https://github.com/Ramedeus/Object_Oriented_Programming_Kodluyoruz_Patika.dev/blob/main/README.md#open_book-%C3%B6dev-1--%C3%BCniversite-y%C3%B6netim-sistemi) - Üniversite Yönetim Sistemi |
-| [ÖDEV 2](https://github.com/Ramedeus/Object_Oriented_Programming_Kodluyoruz_Patika.dev/blob/main/README.md#open_book-%C3%B6dev-1--%C3%BCniversite-y%C3%B6netim-sistemi) - Hayvanat Bahçesi Yönetimi |
+| [ÖDEV 2](https://github.com/Ramedeus/Object_Oriented_Programming_Kodluyoruz_Patika.dev/blob/main/README.md#open_book-%C3%B6dev-2--hayvanat-bah%C3%A7esi-y%C3%B6netimi) - Hayvanat Bahçesi Yönetimi |
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
