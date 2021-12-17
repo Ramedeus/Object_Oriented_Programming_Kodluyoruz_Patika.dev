@@ -8,6 +8,7 @@ Bu repo [Kodluyoruz](Kodluyoruz.org) Object Oriented Programming eğitimi için 
 |-----|
 | [ÖDEV 1](https://github.com/Ramedeus/Object_Oriented_Programming_Kodluyoruz_Patika.dev/blob/main/README.md#open_book-%C3%B6dev-1--%C3%BCniversite-y%C3%B6netim-sistemi) - Üniversite Yönetim Sistemi |
 | [ÖDEV 2](https://github.com/Ramedeus/Object_Oriented_Programming_Kodluyoruz_Patika.dev/blob/main/README.md#open_book-%C3%B6dev-2--hayvanat-bah%C3%A7esi-y%C3%B6netimi) - Hayvanat Bahçesi Yönetimi |
+| [ÖDEV 3](https://github.com/Ramedeus/Object_Oriented_Programming_Kodluyoruz_Patika.dev/blob/main/README.md#open_book-%C3%B6dev-2--hayvanat-bah%C3%A7esi-y%C3%B6netimi) - Uçuş Yönetim Sistemi |
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -61,6 +62,35 @@ Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bi
 <summary>Diyagramı görmek için tıklayınız.</summary>
     
 <img src="https://github.com/Ramedeus/Logo/blob/main/Hayvanat%20Bah%C3%A7esi%20Y%C3%B6netimi.PNG "/>
+ 
+</details>
+
+  
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+
+## :open_book: ÖDEV 3	- Uçuş Yönetim Sistemi
+
+### SORU :question:
+
+Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
+
+- Hava yolu şirketleri uçuşları gerçekleştirir. Her hava yolunun bir kimliği vardır.   
+- Hava yolu şirketi, farklı tipteki uçaklara sahiptir.   
+- Uçaklar çalışır veya onarım durumunda olabilir.   
+- Her uçuşun benzersiz kimliği, kalkacağı ve ineceği havaalanı, kalkış ve iniş saatleri vardır.   
+- Her uçuşun bir pilotu ve yardımcı pilotu vardır ve uçağı kullanırlar.   
+- Havaalanlarının benzersiz kimlikleri ve isimleri vardır.   
+- Hava yolu şirketlerinin pilotları vardır ve her pilotun bir deneyim seviyesi mevcuttur.   
+- Bir uçak tipi, belirli sayıda pilota ihtiyaç duyabilir.   
+
+Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.   
+
+### :green_square: CEVAP
+
+<details>
+<summary>Diyagramı görmek için tıklayınız.</summary>
+    
+<img src="https://github.com/Ramedeus/Logo/blob/main/U%C3%A7u%C5%9F%20Y%C3%B6netim%20Sistemi.PNG "/>
  
 </details>
 
