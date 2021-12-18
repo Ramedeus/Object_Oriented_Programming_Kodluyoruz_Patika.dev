@@ -18,10 +18,11 @@ Bu repo [Kodluyoruz](Kodluyoruz.org) Object Oriented Programming eğitimi için 
 
 ### SORU :question:
 
-1 - Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.   
-2 - Departmanlara ait ofisler vardır.   
-3 - Üniversiteye ait çalışanlar vardır. Bu çalışanlar profesör veya memur olabilir.   
-4 - Her çalışan bir ofiste çalışır.   
+- Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.   
+- Departmanlara ait ofisler vardır.   
+- Üniversiteye ait çalışanlar vardır. Bu çalışanlar profesör veya memur olabilir.   
+- Her çalışan bir ofiste çalışır.   
+
 Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.   
 
 Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
