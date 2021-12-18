@@ -9,6 +9,7 @@ Bu repo [Kodluyoruz](Kodluyoruz.org) Object Oriented Programming eğitimi için 
 | [ÖDEV 1](https://github.com/Ramedeus/Object_Oriented_Programming_Kodluyoruz_Patika.dev/blob/main/README.md#open_book-%C3%B6dev-1--%C3%BCniversite-y%C3%B6netim-sistemi) - Üniversite Yönetim Sistemi |
 | [ÖDEV 2](https://github.com/Ramedeus/Object_Oriented_Programming_Kodluyoruz_Patika.dev/blob/main/README.md#open_book-%C3%B6dev-2--hayvanat-bah%C3%A7esi-y%C3%B6netimi) - Hayvanat Bahçesi Yönetimi |
 | [ÖDEV 3](https://github.com/Ramedeus/Object_Oriented_Programming_Kodluyoruz_Patika.dev/blob/main/README.md#open_book-%C3%B6dev-3--u%C3%A7u%C5%9F-y%C3%B6netim-sistemi) - Uçuş Yönetim Sistemi |
+| [ÖDEV 4](https://github.com/Ramedeus/Object_Oriented_Programming_Kodluyoruz_Patika.dev/blob/main/README.md#open_book-%C3%B6dev-3--u%C3%A7u%C5%9F-y%C3%B6netim-sistemi) - Online Film Sistemi |
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -96,6 +97,34 @@ Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
   
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+
+## :open_book: ÖDEV 4	- Online Film Sistemi
+
+### SORU :question:
+
+Online film satan veya kiralayan uygulamanın sistemini tasarlayın.
+
+- Uygulamada filmler listelenebilir, sıralanabilir ve kullanıcılar uygulamaya abone olabilir.   
+- Kullanıcılar abonelik için sistem üzerinden kredi satın alır.   
+- Sadece abone olan kullanıcılar, kredileri ile film kiralayabilir ve kiraladığı filmin kredi bedeli kadar hesabından düşülür.   
+- Normal kullanıcılar ve aboneler film satın alabilirler.   
+- Eğer film mevcut değil ise talep edilebilir.   
+
+Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
+
+### :green_square: CEVAP
+
+<details>
+<summary>Diyagramı görmek için tıklayınız.</summary>
+    
+<img src="https://github.com/Ramedeus/Logo/blob/main/Online%20Film%20Sistemi.PNG "/>
+ 
+</details>
+
+
+  
+  
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
   
 ## Contributing :hammer_and_wrench:	
